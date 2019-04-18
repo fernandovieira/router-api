@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.ebexs.router.api.service.impl.LoadGraphServiceImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-17T02:04:43" hostname="fernando-Vostro-5470" time="0.938">
+  <properties/>
+  <testcase name="shouldGenerateGraph" classname="br.com.ebexs.router.api.service.impl.LoadGraphServiceImplTest" time="0.938"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
